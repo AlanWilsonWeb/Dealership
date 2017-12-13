@@ -1,0 +1,112 @@
+img{
+    box-shadow: 2px 2px 5px black;
+}
+footer{
+  text-align:center;
+  background-color:#222;
+  color:gray;
+}
+#mainJumbo{
+  text-align:center;
+}
+#casaBar{
+  font-family: 'Permanent Marker', cursive;
+}
+#jumboSub{
+  font-family: 'Squada One', monospace;
+}
+#jumboTitle{
+  font-family: 'Permanent Marker', cursive;
+}
+#tinyText{
+  font-size:8px;
+}
+.welcomeText{
+  font-family: 'Squada One', monospace;
+}
+#homePage{
+  background: linear-gradient(to bottom, white, #222);
+}
+#needsWhite{
+  text-shadow: 1px 1px 5px white;
+}
+#insideShot{
+  box-shadow: 2px 2px 5px black;
+}
+#ourLogo{
+  box-shadow: 2px 2px 5px black;
+}
+#aboutJumbo{
+  background-color:#FF3333;
+  text-align:center;
+}
+#topAboutRow{
+  background-color:#FF3333;
+}
+#twoAboutRow{
+  background-color:#222;
+  color:white;
+}
+#threeAboutRow{
+  background-color:#FF3333;
+  }
+#about{
+  font-family: 'Roboto', sans-serif;
+  background-color:#cccccc;
+  text-align:center;
+}
+#inventoryJumbo{
+  text-align:center;
+  background: linear-gradient(to top left, #4d94ff, #222);
+  color:white;
+  text-shadow: 0 0 5px black;
+}
+#myCarousel{
+  text-shadow: 0 0 5px black;
+}
+#inventoryHTML{
+    background: linear-gradient(to top, white, #222);
+}
+.inventorychart{
+  text-shadow: 0 0 5px #4d94ff;
+  font-weight:bold;
+}
+#topRowZ{
+  background-color:#222;
+  color:white;
+}
+.myVideoRow{
+  margin:auto;
+}
+#videoRow{
+  margin:auto;
+}
+#hneedsWhite{
+  text-shadow: 1px 1px 5px white;
+}
+#videoRow {
+    vertical-align:middle;
+    align-content: center;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
+#leftSidePrice{
+  text-align:center;
+}
+#contactJumbo h2{
+  text-align:center;
+}
+#contactJumbo h5{
+  text-align:center;
+}
+#contactHTML{
+  background: linear-gradient(to top, #ffad33, #222);
+}
+#pricingHTML{
+  background: linear-gradient(to right, #70db70, #222);
+}
+#contactJumbo{
+  font-family:monospace;
+}
